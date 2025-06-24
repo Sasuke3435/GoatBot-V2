@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100093647727130",
+    "61557009083620",
     ""
   ],
   "whiteListMode": {
@@ -25,8 +25,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "SASÙKE BOT",
-  "prefix": "/",
+  "nickNameBot": "V-CLOUD BOT",
+  "prefix": "¥",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
